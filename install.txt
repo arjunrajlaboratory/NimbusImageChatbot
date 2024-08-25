@@ -1,0 +1,2 @@
+npm install vue@2.7.14 @vitejs/plugin-vue2 vite typescript
+
