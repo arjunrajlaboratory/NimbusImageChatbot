@@ -1,7 +1,7 @@
 ## NimbusImageChatbot
 
 # Clone in the directory:
-git clone https://github.com/arjunrajlaboratory/NimbusImageChatbot.git
+`git clone https://github.com/arjunrajlaboratory/NimbusImageChatbot.git`
 
 # To install the back end:
 ```
