@@ -1,2 +1,4 @@
 package-lock.json
 node_modules/
+vue2-chatbot/node_modules/
+vue2-chatbot/package-lock.json
