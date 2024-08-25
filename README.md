@@ -25,6 +25,12 @@ sudo docker run hello-world
 ```
 Do a restart.
 
+You also probably need to do
+```
+sudo usermod -aG docker ${USER}
+```
+Then log out and back in again. Blah.
+
 Then:
 ```
 docker build -t flask-chatbot-server .
